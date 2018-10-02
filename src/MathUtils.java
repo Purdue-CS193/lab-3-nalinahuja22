@@ -5,6 +5,7 @@ public class MathUtils {
      * divideNumbers -- a / b
      * Divide a by b and return the result
      */
+    
     public static double divideNumbers(double dividend, double divisor) {
         return (dividend / divisor);
     }
