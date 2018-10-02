@@ -1,4 +1,4 @@
-/*@author Nalin Ahuja*/
+/*@author: Nalin Ahuja*/
 
 public class MathUtils {
     /**
