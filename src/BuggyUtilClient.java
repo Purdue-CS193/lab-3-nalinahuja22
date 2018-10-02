@@ -1,3 +1,4 @@
+/*@author: Nalin Ahuja*/
 
 public class BuggyUtilClient {
     public static void main(String[] args) {
@@ -5,10 +6,6 @@ public class BuggyUtilClient {
         System.out.println("Example 1: Make My Username");
         System.out.println("In: first = " + "\"Sean\"" +
                 ", last = " + "\"Flannery\"");
-        System.out.println("Out: " +
-        StringUtils.makePurdueUsername("Sean", "Flannery"));
+        System.out.println("Out: " + StringUtils.makePurdueUsername("Sean", "Flannery"));
     }
 }
-
-
-
